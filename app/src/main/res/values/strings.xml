@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProyectoKotlin</string>
+    <string name="Grupo2">Grupo 2</string>
+    <string name="Contador">0</string>
+    <string name="Suma">Sumar</string>
+    <string name="resta">Restar</string>
+</resources>
